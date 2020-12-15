@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\List\Debug\List.exe
+C:\Users\HP\source\repos\List\Debug\List.pdb
